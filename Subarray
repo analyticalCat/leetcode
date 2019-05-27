@@ -1,0 +1,16 @@
+class Solution:
+    def subarrayBitwiseORs(self, A: List[int]) -> int:
+        C=subarrayBitwiseOrstolist(A)
+        return C
+    
+
+    def subarrayBitwiseOrstoList(A: List[int]) -> List:
+        if len(A) == 1:
+            return C
+        else:
+            return [0,1]
+
+    def foo():
+
+
+        
